@@ -4,7 +4,7 @@ Hi 👋 My name is Salvador
 Full Stack Developer
 --------------------
 
-I've been a developer for 15 years, but I'm still improving, still learning new languages, frameworks, methodologies.
+I've been a developer for 15 years, but I'm still improving, still learning new languages, frameworks and methodologies.
 
 *   🌍  I'm based in Málaga
 *   🖥️  See my portfolio at [https://srioboo.github.io](http://srioboo.github.io/)
