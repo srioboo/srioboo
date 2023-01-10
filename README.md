@@ -8,7 +8,9 @@ I've been a developer for 15 years, but I'm still improving, still learning new 
 
 *   🌍  I'm based in Málaga
 *   🖥️  See my portfolio at [https://srioboo.github.io](http://srioboo.github.io/)
-*   🧠  I'm learning lots of things### Skills 
+*   🧠  I'm learning lots of things
+   
+### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
