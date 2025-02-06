@@ -11,11 +11,11 @@ I've been a developer for 15 years, but I'm still improving, still learning new 
 ### Skills
 
 <p align="left">
-<a href="https://www.spring.io/" target="_blank" rel="noreferrer"><img src="/assets/Spring-Light.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.spring.io/" target="_blank" rel="noreferrer"><img src="/assets/Spring-Light.svg" width="36" height="36" alt="Spring" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="/assets/Java-Light.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="/assets/Angular-Light.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="/assets/Oracle.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="/assets/PostgreSQL-Light.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="/assets/PostgreSQL-Light.svg" width="36" height="36" alt="Postgres" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="/assets/Docker.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://kubernetes.io/es/" target="_blank" rel="noreferrer"><img src="/assets/Kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a>
 <!-- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="/assets/HTML.svg" width="36" height="36" alt="HTML5" /></a>
